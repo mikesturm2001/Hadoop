@@ -22,3 +22,7 @@ Project uses pyspark to read and perform analysis on multiple data sets
   <li>Hive</li>
   <li>Parquet</li>
 </ul>
+
+Basic Spark
+
+Intro project to use Spark to query data
