@@ -14,8 +14,11 @@ Project uses pyspark to read and perform analysis on multiple data sets
 
 
 <h4>Tools Used</h4>
-* AWS S3
-* AWS EC2 Clusters
-* Pyspark 
-* HIVE
-* Parquet
+
+<ul>
+  <li>AWS S2</li>
+  <li>AWS EC2 Clusters</li>
+  <li>PySpark</li>
+  <li>Hive</li>
+  <li>Parquet</li>
+</ul>
