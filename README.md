@@ -1,6 +1,6 @@
 # Hadoop
 
-Customer Complaints Analysis
+<h2>Customer Complaints Analysis</h2>
 
 Project uses pyspark to read and perform analysis on multiple data sets
 
@@ -23,6 +23,6 @@ Project uses pyspark to read and perform analysis on multiple data sets
   <li>Parquet</li>
 </ul>
 
-Basic Spark
+<h2>Basic Spark</h2>
 
 Intro project to use Spark to query data
